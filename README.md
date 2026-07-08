@@ -237,7 +237,7 @@ Investigation Report
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DARK_AXE.git
+git clone https://github.com/g0nts3/DARK_AXE.git
 ```
 
 Navigate into the project
