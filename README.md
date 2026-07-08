@@ -433,8 +433,7 @@ Software Engineering Student • Backend Developer • Cybersecurity Engineer
 Passionate about building secure, scalable, and production-inspired software that bridges software engineering, threat intelligence, and modern backend development.
 
 - GitHub: https://github.com/G0nts3
-- LinkedIn: *(Add your LinkedIn profile)*
-- Portfolio: *(Coming Soon)*
+- Portfolio: https://g0nts3.github.io/Portfolio/
 
 ---
 
